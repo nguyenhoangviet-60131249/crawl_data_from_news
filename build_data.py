@@ -1,6 +1,3 @@
-# ====== Nguồn http://users.soict.hust.edu.vn/khoattq/ml-dm-course/ ======
-
-
 import os
 import json
 
